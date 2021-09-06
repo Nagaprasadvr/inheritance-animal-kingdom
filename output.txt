@@ -1,0 +1,36 @@
+class - human 
+no of limbs :4
+is scutes present :0
+is scales present :0
+skintypesmooth
+special feature :consiousness
+class - elephant 
+no of limbs :4
+is scutes present :0
+is scales present :0
+skintyperough
+special feature :trunk
+class - turtle 
+no of limbs :4
+is scutes present :1
+is scales present :1
+skintypehard
+special feature :hardshell
+class - human 
+no of limbs :4
+is scutes present :0
+is scales present :0
+skintypesoft
+special feature :consiousness
+class - elephant 
+no of limbs :4
+is scutes present :0
+is scales present :1
+skintyperough
+special feature :trunk
+class - turtle 
+no of limbs :4
+is scutes present :1
+is scales present :1
+skintypehard
+special feature :shell
